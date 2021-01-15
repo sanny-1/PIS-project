@@ -1,0 +1,27 @@
+                                    
+                             
+
+
+                                                Help File
+
+               1) Following application and system requirement needed to run this program
+                 -Hardware Requirement:
+                   I. Intel Pentium 4 or above/ AMD Athlon 2.4 Ghz or above
+                   II. 512 MB RAM or above
+                   III. Directx 9.0c compatible graphics card or above 
+                   IV. Standard keyboard and mouse
+                    V. Network card
+
+                 Software Requirement:
+                   I. For PC Windows Vista or above OSX or Linux for running XAMPP for server windows server 2008 or above, Unix or Linux server
+                   II. Internet explorer 8 or above, Google Chrome ver. 32 or above or similar browser
+                   III. XAMPP/ WAMP
+
+               2)Installation and execution process of program and databse
+                 I. First download and install XAMPP in your computer.
+                 II. Then open XAMPP application and start Apache server and MySQL database
+                III. Go to phpMyadmin and make a new database with name project and import project.sql file from Project 
+                    folder
+                IV. After creating a database with name project  go to  Chrome browser and type localhost/Project to
+                    student login page and type Localhost/Project/admin to go admin login page.
+ 
